@@ -1,0 +1,746 @@
+# depslib dependency file v1.0
+1241760777 source:c:\facultad\analisis y diseño de algoritmos\teg anterior\main.cpp
+	"ControladorJuego.h"
+
+1242176379 c:\facultad\analisis y diseño de algoritmos\teg anterior\controladorjuego.h
+	"ComponentesConcretos.h"
+	"UtilidadesJugadores.h"
+	"Interfaz.h"
+	"ComponentesLogicos.h"
+	"InterfazImplementacion.h"
+
+1237949794 c:\facultad\analisis y diseño de algoritmos\teg anterior\componentesconcretos.h
+	"TableroTEG.h"
+	"Misiones.h"
+
+1242165807 c:\facultad\analisis y diseño de algoritmos\teg anterior\tableroteg.h
+	"UtilidadesTablero.h"
+	"UtilidadesJugadores.h"
+	"Pais.h"
+	"TableroTEG_AlgoritmosYClases.h"
+
+1242071085 c:\facultad\analisis y diseño de algoritmos\teg anterior\utilidadestablero.h
+	<utility>
+	<list>
+	<queue>
+	<stack>
+	<set>
+	<map>
+
+1238305036 c:\facultad\analisis y diseño de algoritmos\teg anterior\utilidadesjugadores.h
+
+1238444522 c:\facultad\analisis y diseño de algoritmos\teg anterior\pais.h
+	"UtilidadesTablero.h"
+	"UtilidadesJugadores.h"
+	"TableroTEG.h"
+
+1242062363 c:\facultad\analisis y diseño de algoritmos\teg anterior\tableroteg_algoritmosyclases.h
+
+1238306584 c:\facultad\analisis y diseño de algoritmos\teg anterior\misiones.h
+	"UtilidadesTablero.h"
+	"UtilidadesJugadores.h"
+
+1241823455 c:\facultad\analisis y diseño de algoritmos\teg anterior\interfaz.h
+
+1242171595 c:\facultad\analisis y diseño de algoritmos\teg anterior\componenteslogicos.h
+	"ComponentesConcretos.h"
+	"UtilidadesJugadores.h"
+	"Jugador.h"
+	"JugadorVirtual.h"
+	"JugadorHumano.h"
+	"InteligenciaArtificial.h"
+
+1238349810 c:\facultad\analisis y diseño de algoritmos\teg anterior\jugador.h
+	"UtilidadesJugadores.h"
+	"UtilidadesTablero.h"
+	"Misiones.h"
+	"Interfaz.h"
+
+1242175723 c:\facultad\analisis y diseño de algoritmos\teg anterior\jugadorvirtual.h
+	"Jugador.h"
+	"InteligenciaArtificial.h"
+	"ComponentesIA.h"
+
+1242175669 c:\facultad\analisis y diseño de algoritmos\teg anterior\inteligenciaartificial.h
+
+1238355414 c:\facultad\analisis y diseño de algoritmos\teg anterior\jugadorhumano.h
+	"Interfaz.h"
+	"Jugador.h"
+
+1242169696 c:\facultad\analisis y diseño de algoritmos\teg anterior\interfazimplementacion.h
+	"Interfaz.h"
+	"ObjetosHGE.h"
+	"FuncionesHGE.h"
+
+1238444088 c:\facultad\analisis y diseño de algoritmos\teg anterior\objetoshge.h
+	<HGE\hge.h>
+	<HGE\hgesprite.h>
+	<HGE\hgefont.h>
+	<HGE\hgegui.h>
+	<HGE\hgeguictrls.h>
+
+1238445300 c:\facultad\analisis y diseño de algoritmos\teg anterior\funcioneshge.h
+	"ObjetosHGE.h"
+	"GUIsHGE.h"
+
+1238445790 c:\facultad\analisis y diseño de algoritmos\teg anterior\guishge.h
+	"ObjetosHGE.h"
+	"hgeGUIBoton.h"
+	"hgeGUIFicha.h"
+
+1238189958 c:\facultad\analisis y diseño de algoritmos\teg anterior\hgeguiboton.h
+	"ObjetosHGE.h"
+
+1238269378 c:\facultad\analisis y diseño de algoritmos\teg anterior\hgeguificha.h
+	"ObjetosHGE.h"
+
+1242172627 c:\facultad\analisis y diseño de algoritmos\teg anterior\estrategia.h
+	"Objetivo.h"
+	"GrafoAciclico.h"
+
+1242165807 c:\facultad\analisis y diseño de algoritmos\teg anterior\objetivo.h
+
+1242073238 c:\facultad\analisis y diseño de algoritmos\teg anterior\grafoaciclico.h
+	"Objetivo.h"
+
+1242077653 c:\facultad\analisis y diseño de algoritmos\teg anterior\tacticas.h
+	"Objetivo.h"
+	"GrafoAciclico.h"
+
+1242175276 c:\facultad\analisis y diseño de algoritmos\teg anterior\estrategia_nivel0.h
+	"Estrategia.h"
+
+1242175623 c:\facultad\analisis y diseño de algoritmos\teg anterior\componentesia.h
+	"InteligenciaArtificial.h"
+	"Estrategia.h"
+	"Estrategia_Nivel0.h"
+	"Tacticas.h"
+
+1242497594 source:c:\facultad\analisis y diseño de algoritmos\teg codeblocks\main.cpp
+	"ControladorJuego.h"
+
+1244244125 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\controladorjuego.h
+	"ComponentesConcretos.h"
+	"UtilidadesJugadores.h"
+	"Interfaz.h"
+	"ComponentesLogicos.h"
+	"InterfazImplementacion.h"
+
+1237949794 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\componentesconcretos.h
+	"TableroTEG.h"
+	"Misiones.h"
+
+1244913980 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\tableroteg.h
+	"UtilidadesTablero.h"
+	"UtilidadesJugadores.h"
+	"Pais.h"
+	"Iteradores.h"
+
+1244913052 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\utilidadestablero.h
+	<utility>
+	<list>
+	<queue>
+	<stack>
+	<set>
+	<map>
+
+1244245939 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\utilidadesjugadores.h
+
+1242519887 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\pais.h
+	"UtilidadesTablero.h"
+	"UtilidadesJugadores.h"
+	"TableroTEG.h"
+
+1242519960 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\tableroteg_algoritmosyclases.h
+
+1242518135 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\misiones.h
+	"UtilidadesTablero.h"
+	"UtilidadesJugadores.h"
+
+1244489003 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\interfaz.h
+
+1242516912 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\componenteslogicos.h
+	"ComponentesConcretos.h"
+	"UtilidadesJugadores.h"
+	"Jugador.h"
+	"JugadorVirtual.h"
+	"JugadorHumano.h"
+	"InteligenciaArtificial.h"
+
+1244240512 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\jugador.h
+	"UtilidadesJugadores.h"
+	"UtilidadesTablero.h"
+	"Misiones.h"
+	"Interfaz.h"
+
+1244838666 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\jugadorvirtual.h
+	"Jugador.h"
+	"InteligenciaArtificial.h"
+	"ComponentesIA.h"
+
+1242601795 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\inteligenciaartificial.h
+
+1242601795 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\componentesia.h
+	"InteligenciaArtificial.h"
+	"AlgoritmosDeBajoNivel.h"
+	"Estrategia.h"
+	"Estrategia_Nivel0.h"
+	"Tacticas.h"
+
+1244911809 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\estrategia.h
+	"Objetivo.h"
+	"GrafoAciclico.h"
+
+1242601795 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\objetivo.h
+
+1242073238 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\grafoaciclico.h
+	"Objetivo.h"
+
+1242519089 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\estrategia_nivel0.h
+	"Estrategia.h"
+
+1244839095 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\tacticas.h
+	"Objetivo.h"
+	"GrafoAciclico.h"
+	"AlgoritmosDeBajoNivel.h"
+
+1242519089 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\jugadorhumano.h
+	"Interfaz.h"
+	"Jugador.h"
+
+1244913638 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\interfazimplementacion.h
+	"Interfaz.h"
+	"ObjetosHGE.h"
+	"FuncionesHGE.h"
+
+1242519253 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\objetoshge.h
+	<HGE\hge.h>
+	<HGE\hgesprite.h>
+	<HGE\hgefont.h>
+	<HGE\hgegui.h>
+	<HGE\hgeguictrls.h>
+
+1244487438 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\funcioneshge.h
+	"ObjetosHGE.h"
+	"GUIsHGE.h"
+
+1244487502 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\guishge.h
+	"ObjetosHGE.h"
+	"hgeGUIBoton.h"
+	"hgeGUIFicha.h"
+
+1238189958 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\hgeguiboton.h
+	"ObjetosHGE.h"
+
+1238269378 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\hgeguificha.h
+	"ObjetosHGE.h"
+
+1242604722 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\iteradores.h
+
+1244837702 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\algoritmosdebajonivel.h
+	"Heuristicas.h"
+
+1244837231 c:\facultad\analisis y diseño de algoritmos\teg codeblocks\heuristicas.h
+
+1242497594 source:c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\main.cpp
+	"ControladorJuego.h"
+
+1245046984 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\controladorjuego.h
+	"ComponentesConcretos.h"
+	"UtilidadesJugadores.h"
+	"Interfaz.h"
+	"ComponentesLogicos.h"
+	"InterfazImplementacion.h"
+
+1237949794 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\componentesconcretos.h
+	"TableroTEG.h"
+	"Misiones.h"
+
+1244913980 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\tableroteg.h
+	"UtilidadesTablero.h"
+	"UtilidadesJugadores.h"
+	"Pais.h"
+	"Iteradores.h"
+
+1244913052 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\utilidadestablero.h
+	<utility>
+	<list>
+	<queue>
+	<stack>
+	<set>
+	<map>
+
+1244926885 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\utilidadesjugadores.h
+
+1245046662 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\pais.h
+	"UtilidadesTablero.h"
+	"UtilidadesJugadores.h"
+	"TableroTEG.h"
+
+1242604722 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\iteradores.h
+
+1242518135 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\misiones.h
+	"UtilidadesTablero.h"
+	"UtilidadesJugadores.h"
+
+1244489003 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\interfaz.h
+
+1242516912 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\componenteslogicos.h
+	"ComponentesConcretos.h"
+	"UtilidadesJugadores.h"
+	"Jugador.h"
+	"JugadorVirtual.h"
+	"JugadorHumano.h"
+	"InteligenciaArtificial.h"
+
+1245046227 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\jugador.h
+	"UtilidadesJugadores.h"
+	"UtilidadesTablero.h"
+	"Misiones.h"
+	"Interfaz.h"
+
+1245083749 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\jugadorvirtual.h
+	"Jugador.h"
+	"InteligenciaArtificial.h"
+	"ComponentesIA.h"
+
+1245046721 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\inteligenciaartificial.h
+
+1244918874 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\componentesia.h
+	"InteligenciaArtificial.h"
+	"AlgoritmosDeBajoNivel.h"
+	"Estrategia.h"
+	"Estrategia_Nivel0.h"
+	"Estrategia_Nivel1.h"
+	"Estrategia_Nivel2.h"
+	"Tacticas.h"
+
+1245084651 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\algoritmosdebajonivel.h
+	"Heuristicas.h"
+	"AlgoritmosSobreConjuntosYArreglos.h"
+	"AlgoritmosSobreGrafos.h"
+
+1245083749 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\heuristicas.h
+
+1245046446 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\estrategia.h
+	"Objetivo.h"
+	"GrafoAciclico.h"
+
+1245050812 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\objetivo.h
+
+1245016927 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\grafoaciclico.h
+	<cassert>
+	<map>
+	<list>
+
+1244935520 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\estrategia_nivel0.h
+	"Estrategia.h"
+
+1245083818 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\tacticas.h
+	"Objetivo.h"
+	"GrafoAciclico.h"
+	"AlgoritmosDeBajoNivel.h"
+	"Tacticas_Agregar.h"
+	"Tacticas_Atacar.h"
+	"Tacticas_Reagrupar.h"
+
+1242519089 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\jugadorhumano.h
+	"Interfaz.h"
+	"Jugador.h"
+
+1245047825 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\interfazimplementacion.h
+	"Interfaz.h"
+	"ObjetosHGE.h"
+	"FuncionesHGE.h"
+
+1242519253 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\objetoshge.h
+	<HGE\hge.h>
+	<HGE\hgesprite.h>
+	<HGE\hgefont.h>
+	<HGE\hgegui.h>
+	<HGE\hgeguictrls.h>
+
+1244936259 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\funcioneshge.h
+	"ObjetosHGE.h"
+	"GUIsHGE.h"
+
+1244918425 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\guishge.h
+	"ObjetosHGE.h"
+	"hgeGUIBoton.h"
+	"hgeGUIFicha.h"
+
+1238189958 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\hgeguiboton.h
+	"ObjetosHGE.h"
+
+1238269378 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\hgeguificha.h
+	"ObjetosHGE.h"
+
+1245046446 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\estrategia_nivel1.h
+	"Estrategia.h"
+
+1244935520 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\estrategia_nivel2.h
+	"Estrategia.h"
+
+1244926514 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\arreglo.h
+
+1245084432 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\conjuntos_y_arreglos.h
+	"Arreglo.h"
+
+1245084432 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\algoritmossobregrafos.h
+
+1245084505 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\tacticas_agregar.h
+
+1245083749 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\tacticas_atacar.h
+
+1245084506 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\tacticas_reagrupar.h
+
+1245084651 c:\facultad\analisis y diseño de algoritmos\teg codeblocks nueva version\algoritmossobreconjuntosyarreglos.h
+	"Arreglo.h"
+
+1242497596 source:c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\main.cpp
+	"ControladorJuego.h"
+
+1245654560 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\controladorjuego.h
+	"ComponentesConcretos.h"
+	"UtilidadesJugadores.h"
+	"Interfaz.h"
+	"ComponentesLogicos.h"
+	"InterfazImplementacion.h"
+
+1237949794 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\componentesconcretos.h
+	"TableroTEG.h"
+	"Misiones.h"
+
+1245612375 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\tableroteg.h
+	"UtilidadesTablero.h"
+	"UtilidadesJugadores.h"
+	"Pais.h"
+	"Iteradores.h"
+
+1245654560 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\utilidadestablero.h
+	<utility>
+	<list>
+	<queue>
+	<stack>
+	<set>
+	<map>
+
+1245619245 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\utilidadesjugadores.h
+
+1245654363 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\pais.h
+	"UtilidadesTablero.h"
+	"UtilidadesJugadores.h"
+	"TableroTEG.h"
+
+1245651753 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\iteradores.h
+
+1245612323 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\misiones.h
+	"UtilidadesTablero.h"
+	"UtilidadesJugadores.h"
+
+1245654560 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\interfaz.h
+	<HGE\hge.h>
+
+1242516914 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\componenteslogicos.h
+	"ComponentesConcretos.h"
+	"UtilidadesJugadores.h"
+	"Jugador.h"
+	"JugadorVirtual.h"
+	"JugadorHumano.h"
+	"InteligenciaArtificial.h"
+
+1245654560 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\jugador.h
+	"UtilidadesJugadores.h"
+	"UtilidadesTablero.h"
+	"Misiones.h"
+	"Interfaz.h"
+
+1245623667 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\jugadorvirtual.h
+	"Jugador.h"
+	"InteligenciaArtificial.h"
+	"ComponentesIA.h"
+
+1245619245 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\inteligenciaartificial.h
+	"GrafoAciclico.h"
+
+1245619245 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\componentesia.h
+	"InteligenciaArtificial.h"
+	"AlgoritmosDeBajoNivel.h"
+	"Estrategia.h"
+	"Estrategia_Nivel0.h"
+	"Estrategia_Nivel1.h"
+	"Estrategia_Nivel2.h"
+	"Tacticas.h"
+
+1245084652 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\algoritmosdebajonivel.h
+	"Heuristicas.h"
+	"AlgoritmosSobreConjuntosYArreglos.h"
+	"AlgoritmosSobreGrafos.h"
+
+1245649188 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\heuristicas.h
+
+1245651062 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\algoritmossobreconjuntosyarreglos.h
+	"Arreglo.h"
+
+1245650051 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\arreglo.h
+
+1245652381 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\algoritmossobregrafos.h
+
+1245640314 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\estrategia.h
+	"Objetivo.h"
+	"GrafoAciclico.h"
+
+1245654913 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\objetivo.h
+
+1245654913 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\grafoaciclico.h
+	<cassert>
+	<map>
+	<list>
+
+1245654913 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\estrategia_nivel0.h
+	"Estrategia.h"
+
+1245654913 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\estrategia_nivel1.h
+	"Estrategia.h"
+
+1245654913 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\estrategia_nivel2.h
+	"Estrategia.h"
+
+1245648728 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\tacticas.h
+	"Objetivo.h"
+	"GrafoAciclico.h"
+	"AlgoritmosDeBajoNivel.h"
+	"Tacticas_Agregar.h"
+	"Tacticas_Atacar.h"
+	"Tacticas_Reagrupar.h"
+
+1245654913 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\tacticas_agregar.h
+
+1245655057 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\tacticas_atacar.h
+
+1245648711 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\tacticas_reagrupar.h
+
+1245615342 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\jugadorhumano.h
+	"Interfaz.h"
+	"Jugador.h"
+
+1245654796 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\interfazimplementacion.h
+	"Interfaz.h"
+	"ObjetosHGE.h"
+	"FuncionesHGE.h"
+
+1245654796 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\objetoshge.h
+	<HGE\hge.h>
+	<HGE\hgesprite.h>
+	<HGE\hgefont.h>
+	<HGE\hgegui.h>
+	<HGE\hgeguictrls.h>
+
+1245655014 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\funcioneshge.h
+	"ObjetosHGE.h"
+	"GUIsHGE.h"
+
+1245613188 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\guishge.h
+	"ObjetosHGE.h"
+	"hgeGUIBoton.h"
+	"hgeGUIFicha.h"
+
+1238189958 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\hgeguiboton.h
+	"ObjetosHGE.h"
+
+1245654796 c:\documents and settings\administrador\escritorio\facultad y programacion\teg\teg codeblocks nueva version\hgeguificha.h
+	"ObjetosHGE.h"
+
+1249971966 source:d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\main.cpp
+	"ControladorJuego.h"
+
+1316404977 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\controladorjuego.h
+	"ComponentesConcretos.h"
+	"UtilidadesJugadores.h"
+	"Interfaz.h"
+	"ComponentesLogicos.h"
+	"InterfazImplementacion.h"
+
+1237949794 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\componentesconcretos.h
+	"TableroTEG.h"
+	"Misiones.h"
+
+1245612375 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\tableroteg.h
+	"UtilidadesTablero.h"
+	"UtilidadesJugadores.h"
+	"Pais.h"
+	"Iteradores.h"
+
+1245654560 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\utilidadestablero.h
+	<utility>
+	<list>
+	<queue>
+	<stack>
+	<set>
+	<map>
+
+1245619245 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\utilidadesjugadores.h
+
+1245654363 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\pais.h
+	"UtilidadesTablero.h"
+	"UtilidadesJugadores.h"
+	"TableroTEG.h"
+
+1245651753 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\iteradores.h
+
+1245612323 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\misiones.h
+	"UtilidadesTablero.h"
+	"UtilidadesJugadores.h"
+
+1316418423 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\interfaz.h
+	"include\hge.h"
+
+1242516914 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\componenteslogicos.h
+	"ComponentesConcretos.h"
+	"UtilidadesJugadores.h"
+	"Jugador.h"
+	"JugadorVirtual.h"
+	"JugadorHumano.h"
+	"InteligenciaArtificial.h"
+
+1245654560 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\jugador.h
+	"UtilidadesJugadores.h"
+	"UtilidadesTablero.h"
+	"Misiones.h"
+	"Interfaz.h"
+
+1316392930 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\jugadorvirtual.h
+	"Jugador.h"
+	"InteligenciaArtificial.h"
+	"ComponentesIA.h"
+
+1316393075 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\inteligenciaartificial.h
+	"GrafoAciclico.h"
+
+1245654913 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\grafoaciclico.h
+	<cassert>
+	<map>
+	<list>
+
+1245619245 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\componentesia.h
+	"InteligenciaArtificial.h"
+	"AlgoritmosDeBajoNivel.h"
+	"Estrategia.h"
+	"Estrategia_Nivel0.h"
+	"Estrategia_Nivel1.h"
+	"Estrategia_Nivel2.h"
+	"Tacticas.h"
+
+1245084652 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\algoritmosdebajonivel.h
+	"Heuristicas.h"
+	"AlgoritmosSobreConjuntosYArreglos.h"
+	"AlgoritmosSobreGrafos.h"
+
+1245649188 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\heuristicas.h
+
+1245651062 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\algoritmossobreconjuntosyarreglos.h
+	"Arreglo.h"
+
+1245650051 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\arreglo.h
+
+1245652381 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\algoritmossobregrafos.h
+
+1316393252 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\estrategia.h
+	"Objetivo.h"
+	"GrafoAciclico.h"
+	"Tacticas.h"
+
+1245654913 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\objetivo.h
+
+1316388749 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\estrategia_nivel0.h
+	"Estrategia.h"
+
+1316388749 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\estrategia_nivel1.h
+	"Estrategia.h"
+
+1245654913 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\estrategia_nivel2.h
+	"Estrategia.h"
+
+1316407115 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\tacticas.h
+	"Objetivo.h"
+	"GrafoAciclico.h"
+	"AlgoritmosDeBajoNivel.h"
+	"TacticaNivel0.h"
+	"TacticaNivel1.h"
+	"TacticaNivel2.h"
+	"TacticaNivel3.h"
+
+1316392930 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\tacticas_agregar.h
+
+1316392930 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\tacticas_atacar.h
+
+1316392930 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\tacticas_reagrupar.h
+
+1245615342 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\jugadorhumano.h
+	"Interfaz.h"
+	"Jugador.h"
+
+1245654796 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\interfazimplementacion.h
+	"Interfaz.h"
+	"ObjetosHGE.h"
+	"FuncionesHGE.h"
+
+1316418378 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\objetoshge.h
+	"include\hge.h"
+	"include\hgesprite.h"
+	"include\hgefont.h"
+	"include\hgegui.h"
+	"include\hgeguictrls.h"
+
+1316373610 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\funcioneshge.h
+	"ObjetosHGE.h"
+	"GUIsHGE.h"
+
+1245613188 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\guishge.h
+	"ObjetosHGE.h"
+	"hgeGUIBoton.h"
+	"hgeGUIFicha.h"
+
+1238189958 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\hgeguiboton.h
+	"ObjetosHGE.h"
+
+1245654796 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\hgeguificha.h
+	"ObjetosHGE.h"
+
+1316404806 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\tacticanivel0.h
+	"Tacticas.h"
+
+1316407115 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\tacticanivel1.h
+	"TacticaNivel0.h"
+
+1316407115 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\tacticanivel2.h
+	"TacticaNivel1.h"
+
+1316407115 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\tacticanivel3.h
+	"TacticaNivel2.h"
+
+1202860104 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\include\hge.h
+	<windows.h>
+
+1177631746 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\include\hgesprite.h
+	"hge.h"
+	"hgerect.h"
+
+1176932886 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\include\hgerect.h
+
+1184972234 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\include\hgefont.h
+	"hge.h"
+	"hgesprite.h"
+
+1198292600 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\include\hgegui.h
+	"hge.h"
+	"hgesprite.h"
+	"hgerect.h"
+
+1176932886 d:\documents and settings\emiliano\escritorio\facultad\programacion video juegos\proyecto final algoritmos 2\codigos\include\hgeguictrls.h
+	"hge.h"
+	"hgesprite.h"
+	"hgefont.h"
+	"hgerect.h"
+	"hgegui.h"
+

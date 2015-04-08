@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TEG" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="Interfaz\;Inteligencia artificial\;Inteligencia artificial\Algoritmos de bajo nivel\;Inteligencia artificial\Estrategias\;Inteligencia artificial\Tacticas\;Nucleo\;Nucleo\Componentes concretos\;Nucleo\Componentes logicos\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\TEG anterior" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="..\..\CodeBlocks\MinGW\lib\libhge.a" />
+					<Add library="..\..\CodeBlocks\MinGW\lib\libhgehelp.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\TEG anterior" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="lib\libhge.a" />
+					<Add library="lib\libhgehelp.a" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="gdi32" />
+			<Add library="user32" />
+			<Add library="kernel32" />
+		</Linker>
+		<Unit filename="AlgoritmosDeBajoNivel.h">
+			<Option virtualFolder="Inteligencia artificial\Algoritmos de bajo nivel\" />
+		</Unit>
+		<Unit filename="AlgoritmosSobreConjuntosYArreglos.h">
+			<Option virtualFolder="Inteligencia artificial\Algoritmos de bajo nivel\" />
+		</Unit>
+		<Unit filename="AlgoritmosSobreGrafos.h">
+			<Option virtualFolder="Inteligencia artificial\Algoritmos de bajo nivel\" />
+		</Unit>
+		<Unit filename="Arreglo.h">
+			<Option virtualFolder="Inteligencia artificial\Algoritmos de bajo nivel\" />
+		</Unit>
+		<Unit filename="ComponentesConcretos.h">
+			<Option virtualFolder="Nucleo\Componentes concretos\" />
+		</Unit>
+		<Unit filename="ComponentesIA.h">
+			<Option virtualFolder="Inteligencia artificial\" />
+		</Unit>
+		<Unit filename="ComponentesLogicos.h">
+			<Option virtualFolder="Nucleo\Componentes logicos\" />
+		</Unit>
+		<Unit filename="ControladorJuego.h">
+			<Option virtualFolder="Nucleo\" />
+		</Unit>
+		<Unit filename="Estrategia.h">
+			<Option virtualFolder="Inteligencia artificial\Estrategias\" />
+		</Unit>
+		<Unit filename="Estrategia_Nivel0.h">
+			<Option virtualFolder="Inteligencia artificial\Estrategias\" />
+		</Unit>
+		<Unit filename="Estrategia_Nivel1.h">
+			<Option virtualFolder="Inteligencia artificial\Estrategias\" />
+		</Unit>
+		<Unit filename="Estrategia_Nivel2.h">
+			<Option virtualFolder="Inteligencia artificial\Estrategias\" />
+		</Unit>
+		<Unit filename="FuncionesHGE.h">
+			<Option virtualFolder="Interfaz\" />
+		</Unit>
+		<Unit filename="GUIsHGE.h">
+			<Option virtualFolder="Interfaz\" />
+		</Unit>
+		<Unit filename="GrafoAciclico.h">
+			<Option virtualFolder="Inteligencia artificial\Algoritmos de bajo nivel\" />
+		</Unit>
+		<Unit filename="Heuristicas.h">
+			<Option virtualFolder="Inteligencia artificial\Algoritmos de bajo nivel\" />
+		</Unit>
+		<Unit filename="InteligenciaArtificial.h">
+			<Option virtualFolder="Inteligencia artificial\" />
+		</Unit>
+		<Unit filename="Interfaz.h">
+			<Option virtualFolder="Interfaz\" />
+		</Unit>
+		<Unit filename="InterfazImplementacion.h">
+			<Option virtualFolder="Interfaz\" />
+		</Unit>
+		<Unit filename="Iteradores.h">
+			<Option virtualFolder="Nucleo\Componentes concretos\" />
+		</Unit>
+		<Unit filename="Jugador.h">
+			<Option virtualFolder="Nucleo\Componentes logicos\" />
+		</Unit>
+		<Unit filename="JugadorHumano.h">
+			<Option virtualFolder="Nucleo\Componentes logicos\" />
+		</Unit>
+		<Unit filename="JugadorVirtual.h">
+			<Option virtualFolder="Nucleo\Componentes logicos\" />
+		</Unit>
+		<Unit filename="Misiones.h">
+			<Option virtualFolder="Nucleo\Componentes concretos\" />
+		</Unit>
+		<Unit filename="Objetivo.h">
+			<Option virtualFolder="Inteligencia artificial\Estrategias\" />
+		</Unit>
+		<Unit filename="ObjetosHGE.h">
+			<Option virtualFolder="Interfaz\" />
+		</Unit>
+		<Unit filename="Pais.h">
+			<Option virtualFolder="Nucleo\Componentes concretos\" />
+		</Unit>
+		<Unit filename="TableroTEG.h">
+			<Option virtualFolder="Nucleo\Componentes concretos\" />
+		</Unit>
+		<Unit filename="TacticaNivel0.h">
+			<Option virtualFolder="Inteligencia artificial\Tacticas\" />
+		</Unit>
+		<Unit filename="TacticaNivel1.h">
+			<Option virtualFolder="Inteligencia artificial\Tacticas\" />
+		</Unit>
+		<Unit filename="TacticaNivel2.h">
+			<Option virtualFolder="Inteligencia artificial\Tacticas\" />
+		</Unit>
+		<Unit filename="TacticaNivel3.h">
+			<Option virtualFolder="Inteligencia artificial\Tacticas\" />
+		</Unit>
+		<Unit filename="Tacticas.h">
+			<Option virtualFolder="Inteligencia artificial\Tacticas\" />
+		</Unit>
+		<Unit filename="UtilidadesJugadores.h">
+			<Option virtualFolder="Nucleo\Componentes logicos\" />
+		</Unit>
+		<Unit filename="UtilidadesTablero.h">
+			<Option virtualFolder="Nucleo\Componentes concretos\" />
+		</Unit>
+		<Unit filename="hgeGUIBoton.h">
+			<Option virtualFolder="Interfaz\" />
+		</Unit>
+		<Unit filename="hgeGUIFicha.h">
+			<Option virtualFolder="Interfaz\" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
